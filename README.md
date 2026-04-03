@@ -40,12 +40,14 @@ data_quality_finance/
 
 ### transactions.csv — PaySim (simulation fraude bancaire)
 - Source : Kaggle / PaySim Synthetic Dataset
+- Link : https://www.kaggle.com/datasets/ealaxi/paysim1?resource=download
 - Lignes : 6 362 620
 - Colonnes clés : `step`, `type`, `amount`, `nameOrig`, `nameDest`, `isFraud`
 - Usage : simulation de transactions financières avec détection de fraude
 
 ### employes.csv — MFG10 (historique RH)
 - Source : Kaggle / MFG10YoungPeopleDataset
+- link : https://www.kaggle.com/datasets/HRAnalyticRepository/employee-attrition-data
 - Lignes : 49 653 (historique annuel par employé)
 - Colonnes clés : `EmployeeID`, `department_name`, `STATUS`, `termreason_desc`
 - Usage : analyse des départs, masse salariale, pilotage RH
